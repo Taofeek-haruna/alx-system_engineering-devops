@@ -1,1 +1,1 @@
-This repository contain such solution
+variables expansion
